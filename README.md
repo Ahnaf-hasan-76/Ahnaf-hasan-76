@@ -7,13 +7,13 @@ I’m a computer science student at American International University. I’m pas
 
 Skills: C++/python/Powerpoint/Photoshop/Excel/Ms word/Illustrator
 
--  ![image](https://github.com/Ahnaf-hasan-76/Ahnaf-hasan-76/assets/149115469/71e110f2-74e3-455f-8eb8-b2942a0063d6) I’m currently working on Skills developing   
+- 🧑‍💻 I’m currently working on Skills developing   
  
  
-- ![image](https://github.com/Ahnaf-hasan-76/Ahnaf-hasan-76/assets/149115469/5a078977-97a9-4f60-aa04-e513fff802d6) I’m currently learning C++ & Python 
+- ✍️ I’m currently learning C++ & Python 
 
  
-- ![image](https://github.com/Ahnaf-hasan-76/Ahnaf-hasan-76/assets/149115469/b2972257-f64e-460a-8e47-9cf9b07f0175)  I’m looking to collaborate on IEEE  
+- 🧑‍💼 I’m looking to collaborate on IEEE  
 
 
 
