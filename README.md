@@ -7,11 +7,14 @@ I’m a computer science student at American International University. I’m pas
 
 Skills: C++/python/Powerpoint/Photoshop/Excel/Ms word/Illustrator
 
-- ![image](https://github.com/Ahnaf-hasan-76/Ahnaf-hasan-76/assets/149115469/dd3eb48b-352d-4623-aa04-a475e0f90177)
- I’m currently working on Skills developing  
-- ![image](https://github.com/Ahnaf-hasan-76/Ahnaf-hasan-76/assets/149115469/fc7ebbbe-9845-4e35-8714-5d46929b8dc2)
- I’m currently learning C++ & Python 
-- 👯 I’m looking to collaborate on IEEE  
+-  ![image](https://github.com/Ahnaf-hasan-76/Ahnaf-hasan-76/assets/149115469/71e110f2-74e3-455f-8eb8-b2942a0063d6) I’m currently working on Skills developing   
+ 
+ 
+- ![image](https://github.com/Ahnaf-hasan-76/Ahnaf-hasan-76/assets/149115469/5a078977-97a9-4f60-aa04-e513fff802d6) I’m currently learning C++ & Python 
+
+ 
+- ![image](https://github.com/Ahnaf-hasan-76/Ahnaf-hasan-76/assets/149115469/b2972257-f64e-460a-8e47-9cf9b07f0175)  I’m looking to collaborate on IEEE  
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ahnaf-hasan-76)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Ahnaf (Mehedi) Hasan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/md.mehedi.01234)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mehedi._.hasan0/)  
