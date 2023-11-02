@@ -1,7 +1,7 @@
-(https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Cse Students ](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ### Hi Guys 👋, I'm Ahnaf Hasan Mehedi, You can call me Mehedi.
 #### Cse Students 
-![Cse Students ]
+
 
 I’m a computer science student at American International University. I’m passionate about technology and its ability to solve real-world problems. I have experience in programming languages such as C++, Python and Java. I’m also interested in data science and AI engineering. I believe that these fields have the potential to revolutionize the way we live and work. In my free time, I enjoy reading about the latest advancements in these fields and working on projects that allow me to apply my knowledge.
 
